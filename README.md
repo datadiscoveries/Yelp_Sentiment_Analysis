@@ -4,8 +4,8 @@
 Question:<br>
 Can we build a neural network using Yelp reviews to accurately classify customer sentiment as positive or negative?
 
-Goals and Techniques:<br>
-The main goal of this analysis is to determine if a neural network can accurately predict customer sentiment based on Yelp reviews. A recurrent neural network (RNN) was used since RNNs can understand text, while convolutional neural networks (CNNs) cannot. The network was built using the Keras library in TensorFlow.
+Techniques:<br>
+A recurrent neural network (RNN) was used since RNNs can understand text, while convolutional neural networks (CNNs) cannot. The network was built using the Keras library in TensorFlow.
 
 
 Findings:<br>
