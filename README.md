@@ -1,8 +1,6 @@
 # Yelp Sentiment Analysis
 
 
-Question:<br>
-
 **Goal:**<br>
 The goal of this analysis is to tune a neural network model to optimize its accuracy in classifying the sentiment of yelp reviews as positive or negative, based on only on the written review. 
 
