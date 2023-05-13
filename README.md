@@ -1,4 +1,4 @@
-# Yelp Sentiment Analysis
+# Restaurant Customer Sentiment from Yelp Reviews
 
 
 **Goal:**<br>
