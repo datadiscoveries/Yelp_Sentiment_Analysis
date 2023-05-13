@@ -2,7 +2,7 @@
 
 
 **Goal:**<br>
-The goal of this analysis is to tune a neural network model to optimize its accuracy in classifying the sentiment of yelp reviews as positive or negative, based only on the written review. Potential applications in the context of a restaurant business will then be explored.  
+The goal of this analysis is to tune a neural network model to optimize its accuracy in classifying customers' sentiments of a restaurant as positive or negative, based only on written reviews from Yelp reviewers. Potential applications of the model in the context of a restaurant business will then be explored.  
 
 **Findings:**<br>
 The neural network built in this analysis classifies customer sentiment with 79% accuracy using Yelp reviews. The construction of the model involved a process of adjusting and improving the network architecture. Increasing the number of layers and reducing the number of nodes per layer from their original points improved the model's performance.   
