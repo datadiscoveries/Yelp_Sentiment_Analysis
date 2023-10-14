@@ -5,7 +5,7 @@
 The goal of this project is to develop a model that accurately designates the sentiment of a restaurant's yelp reviews as positive or negative. Potential applications of the model will be recommended to help meet the restaurant's business goals.  
 
 **Findings:**<br>
-The neural network model built in this analysis designates customer sentiment with **79% accuracy**. The model's performance was tuned and optimized by increasing the number of _layers in the network_ and reducing the _number of nodes per layer_.   
+The neural network model built in this analysis designates customer sentiment as positive or negative with **79% accuracy**. The model's performance was tuned and optimized by increasing the number of _layers in the network_ and reducing the _number of nodes per layer_.   
 
 
 **Applications:**<br>
