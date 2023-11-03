@@ -5,7 +5,7 @@
 The goal of this project is to create a model in Python that accurately categorizes written yelp reviews of a restaurant as "positive" or "negative," without the help of any additional data. The model will use only the words within each review to make the designation. Potential applications of the model will be recommended to help meet the restaurant's business goals.  
 
 **Findings:**<br>
-The neural network model built designates customer sentiment as positive or negative with **79% accuracy**. The model's performance was tuned and optimized by increasing the number of _layers in the network_ and reducing the _number of nodes per layer_.   
+The neural network model built in this analysis designates customer sentiment as positive or negative with **79% accuracy**. The model's performance was tuned and optimized by increasing the number of _layers in the network_ and reducing the _number of nodes per layer_.   
 
 
 **Applications:**<br>
